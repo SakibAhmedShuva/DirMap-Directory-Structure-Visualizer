@@ -1,6 +1,3 @@
-# Revised README.md for Direct Python Usage
-
-```markdown
 # DirMap: Directory Structure Visualizer
 
 A powerful command-line tool that generates beautiful, customizable directory tree visualizations with smart file filtering and annotation capabilities.
